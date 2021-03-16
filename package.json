@@ -1,0 +1,22 @@
+{
+  "name": "js-native-date-enhancements",
+  "version": "1.0.0",
+  "description": "Native JavaScript date enhancements",
+  "main": "datetime.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eonasdan/js-native-date-enhancements.git"
+  },
+  "keywords": [
+    "date",
+    "native",
+    "momentjs",
+    "dayjs"
+  ],
+  "author": "Jonathan Peterson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eonasdan/js-native-date-enhancements/issues"
+  },
+  "homepage": "https://eonasdan.github.io/js-native-date-enhancements/"
+}
